@@ -1,0 +1,26 @@
+{
+       "request": {
+              "method": "GET",
+              "url": "/sow_associate"
+       },
+       "response": {
+              "status": 200,
+              "jsonBody": [{
+              "SOW": "",
+              "AssociateID": "",
+              "AssociateName": "",
+              "FromDate": "",
+              "ToDate": "",
+              "BillingRate": "",
+              "UOM": "",
+              "remarks": "",
+              "Month": "",
+              "Year": "",
+              "location": "",
+              "": ""
+       }],
+              "headers": {
+                     "Content-Type": "application/json"
+              }
+       }
+}
