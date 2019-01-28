@@ -1,0 +1,30 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/sow"
+	},
+	"response": {
+		"status": 200,
+		"jsonBody": {
+			"SOW #": "",
+			"SOW Quarter": "",
+			"Functional Group": "",
+			"Status": "",
+			"Title": "",
+			"Customer Manager": "",
+			"SOW Value": "",
+			"SOW Mode": "",
+			"Request Date": "",
+			"SOW Start Date": "",
+			"SOW End Date": "",
+			"Head Count offshore": "",
+			"Head count onsite": "",
+			"Remarks": "",
+			"Month": "",
+			"year": ""
+		},
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
