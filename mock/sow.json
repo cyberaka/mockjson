@@ -1,7 +1,7 @@
 {
 	"request": {
 		"method": "GET",
-		"url": "/sow"
+		"url": "/sows"
 	},
 	"response": {
 		"status": 200,
