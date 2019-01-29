@@ -5,8 +5,8 @@
 	},
 	"response": {
 		"status": 200,
-		"jsonBody": {
-			"SOW #": "987654",
+		"jsonBody": [{
+			"SOW #": "1234",
 			"SOW Quarter": "",
 			"Functional Group": "",
 			"Status": "",
@@ -22,7 +22,7 @@
 			"Remarks": "",
 			"Month": "",
 			"year": ""
-		},
+		}],
 		"headers": {
 			"Content-Type": "application/json"
 		}
