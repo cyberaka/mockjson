@@ -1,0 +1,105 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/sowAssociate"
+	},
+	"response": {
+		"status": 200,
+		"jsonBody":[
+	{
+		"SOW": "33601",
+		"AssociateID": "450098",
+		"AssociateName": "John Doe",
+		"FromDate": "2014-12-01",
+		"ToDate": "2015-05-31",
+		"BillingRate": "20",
+		"UOM": "",
+		"remarks": "",
+		"Month": "November",
+		"Year": "2014",
+		"location": "Bangalore"
+	},
+	{
+		"SOW": "33601",
+		"AssociateID": "547903",
+		"AssociateName": "Simbil Hunter",
+		"FromDate": "2014-12-01",
+		"ToDate": "2015-05-31",
+		"BillingRate": "22",
+		"UOM": "",
+		"remarks": "",
+		"Month": "November",
+		"Year": "2014",
+		"location": "Bangalore"
+	},
+	{
+		"SOW": "33601",
+		"AssociateID": "633243",
+		"AssociateName": "Jilly Bosco",
+		"FromDate": "2014-12-01",
+		"ToDate": "2015-05-31",
+		"BillingRate": "24",
+		"UOM": "",
+		"remarks": "",
+		"Month": "November",
+		"Year": "2014",
+		"location": "Bangalore"
+	},
+	{
+		"SOW": "31046",
+		"AssociateID": "109989",
+		"AssociateName": "Mandra Seprel",
+		"FromDate": "2014-10-01",
+		"ToDate": "2015-09-30",
+		"BillingRate": "72",
+		"UOM": "",
+		"remarks": "",
+		"Month": "September",
+		"Year": "2014",
+		"location": "Bangalore"
+	},
+	{
+		"SOW": "31046",
+		"AssociateID": "746336",
+		"AssociateName": "Willy Starky",
+		"FromDate": "2014-10-01",
+		"ToDate": "2015-09-30",
+		"BillingRate": "91",
+		"UOM": "",
+		"remarks": "",
+		"Month": "September",
+		"Year": "2014",
+		"location": "Bangalore"
+	},
+	{
+		"SOW": "31046",
+		"AssociateID": "723747",
+		"AssociateName": "Kytei Wilson",
+		"FromDate": "2014-10-01",
+		"ToDate": "2015-09-30",
+		"BillingRate": "76",
+		"UOM": "",
+		"remarks": "",
+		"Month": "September",
+		"Year": "2014",
+		"location": "Bangalore"
+	},
+	{
+		"SOW": "31046",
+		"AssociateID": "364657",
+		"AssociateName": "Sandra Weblie",
+		"FromDate": "2014-10-01",
+		"ToDate": "2015-09-30",
+		"BillingRate": "87",
+		"UOM": "",
+		"remarks": "",
+		"Month": "September",
+		"Year": "2014",
+		"location": "Bangalore"
+	}
+],
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

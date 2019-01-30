@@ -1,0 +1,66 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/sowAssociate/31046"
+	},
+	"response": {
+		"status": 200,
+		"jsonBody":[
+			{
+			"SOW": "31046",
+			"AssociateID": "109989",
+			"AssociateName": "Mandra Seprel",
+			"FromDate": "2014-10-01",
+			"ToDate": "2015-09-30",
+			"BillingRate": "72",
+			"UOM": "",
+			"remarks": "",
+			"Month": "September",
+			"Year": "2014",
+			"location": "Bangalore"
+		},
+		{
+			"SOW": "31046",
+			"AssociateID": "746336",
+			"AssociateName": "Willy Starky",
+			"FromDate": "2014-10-01",
+			"ToDate": "2015-09-30",
+			"BillingRate": "91",
+			"UOM": "",
+			"remarks": "",
+			"Month": "September",
+			"Year": "2014",
+			"location": "Bangalore"
+		},
+		{
+			"SOW": "31046",
+			"AssociateID": "723747",
+			"AssociateName": "Kytei Wilson",
+			"FromDate": "2014-10-01",
+			"ToDate": "2015-09-30",
+			"BillingRate": "76",
+			"UOM": "",
+			"remarks": "",
+			"Month": "September",
+			"Year": "2014",
+			"location": "Bangalore"
+		},
+		{
+			"SOW": "31046",
+			"AssociateID": "364657",
+			"AssociateName": "Sandra Weblie",
+			"FromDate": "2014-10-01",
+			"ToDate": "2015-09-30",
+			"BillingRate": "87",
+			"UOM": "",
+			"remarks": "",
+			"Month": "September",
+			"Year": "2014",
+			"location": "Bangalore"
+		}
+	],
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
